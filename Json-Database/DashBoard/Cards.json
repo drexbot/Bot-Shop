@@ -1,0 +1,103 @@
+{
+    "DiscordBots": [
+        {
+            "title": "Autoline",
+            "name": "Autoline",
+            "description": "بوت خط تلقائي",
+            "type": "Discord bot",
+            "hosted": "24/7 Hosted",
+            "slash": "Slash/Prefix",
+            "support": "24/7 Support"
+        },
+        {
+            "title": "Suggestion",
+            "name": "Suggestion",
+            "description": "بوت إقترحات",
+            "type": "Discord bot",
+            "hosted": "24/7 Hosted",
+            "slash": "Slash/Prefix",
+            "support": "24/7 Support"
+        },
+        {
+            "title": "Tax",
+            "name": "Tax",
+            "description": "بوت ضريبه",
+            "type": "Discord bot",
+            "hosted": "24/7 Hosted",
+            "slash": "Slash/Prefix",
+            "support": "24/7 Support"
+        },
+        {
+            "title": "System",
+            "name": "System",
+            "description": "بوت اداره",
+            "type": "Discord bot",
+            "hosted": "24/7 Hosted",
+            "slash": "Slash/Prefix",
+            "support": "24/7 Support"
+        },
+        {
+            "title": "Feedback",
+            "name": "Feedback",
+            "description": "بوت آراء",
+            "type": "Discord bot",
+            "hosted": "24/7 Hosted",
+            "slash": "Slash/Prefix",
+            "support": "24/7 Support"
+        },
+        {
+            "title": "Ticket",
+            "name": "Ticket",
+            "description": "بوت تذاكر",
+            "type": "Discord bot",
+            "hosted": "24/7 Hosted",
+            "slash": "Slash/Prefix",
+            "support": "24/7 Support"
+        },
+        {
+            "title": "Giveaway",
+            "name": "Giveaway",
+            "description": "بوت هدايا",
+            "type": "Discord bot",
+            "hosted": "24/7 Hosted",
+            "slash": "Slash/Prefix",
+            "support": "24/7 Support"
+        },
+        {
+            "title": "Protection",
+            "name": "Protection",
+            "description": "بوت حمايه",
+            "type": "Discord bot",
+            "hosted": "24/7 Hosted",
+            "slash": "Slash/Prefix",
+            "support": "24/7 Support"
+        },
+        {
+            "title": "Apply",
+            "name": "Apply",
+            "description": "بوت تقديمات",
+            "type": "Discord bot",
+            "hosted": "24/7 Hosted",
+            "slash": "Slash/Prefix",
+            "support": "24/7 Support"
+        },
+        {
+            "title": "Log",
+            "name": "Log",
+            "description": "بوت لوقات",
+            "type": "Discord bot",
+            "hosted": "24/7 Hosted",
+            "slash": "Slash/Prefix",
+            "support": "24/7 Support"
+        },
+        {
+            "title": "Selfrole",
+            "name": "Selfrole",
+            "description": "بوت تجميع رتب",
+            "type": "Discord bot",
+            "hosted": "24/7 Hosted",
+            "slash": "Slash/Prefix",
+            "support": "24/7 Support"
+        }
+    ]
+}

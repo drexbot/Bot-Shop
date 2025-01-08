@@ -1,0 +1,493 @@
+{
+    "Logs_566604399523266580": [
+        {
+            "id": 1,
+            "reason": "لم يتم تحديد سبب",
+            "amount": 111,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-06 06:34"
+        },
+        {
+            "id": 2,
+            "reason": "لم يتم تحديد سبب",
+            "amount": 10,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-06 06:38"
+        },
+        {
+            "id": 3,
+            "reason": "شحن رصيد",
+            "amount": 1,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-06 06:57"
+        },
+        {
+            "id": 5,
+            "reason": "شحن رصيد",
+            "amount": 1,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-06 10:33"
+        },
+        {
+            "id": 6,
+            "reason": "شراء Autoline بوت",
+            "amount": "10",
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-07 03:11"
+        },
+        {
+            "id": 7,
+            "reason": "شراء Package بوت",
+            "amount": "10",
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-07 05:23"
+        },
+        {
+            "id": 8,
+            "reason": "تجديد اشتراك 1186096613337337937 1 شهور",
+            "amount": 7,
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-07 06:00"
+        },
+        {
+            "id": 9,
+            "reason": "تغير لغه البوت 1186110298323697814 الي AR",
+            "amount": 1,
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-07 07:36"
+        },
+        {
+            "id": 10,
+            "reason": "أضافه اختصار جديد الي 1186110298323697814",
+            "amount": 1,
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-07 07:37"
+        },
+        {
+            "id": 11,
+            "reason": "أضافه اختصار جديد الي 1186110298323697814",
+            "amount": 1,
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-07 07:37"
+        },
+        {
+            "id": 12,
+            "reason": "أضافه اختصار جديد الي 1186110298323697814",
+            "amount": 1,
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-07 07:37"
+        },
+        {
+            "id": 13,
+            "reason": "أضافه اختصار جديد الي 1186110298323697814",
+            "amount": 1,
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-07 07:37"
+        },
+        {
+            "id": 14,
+            "reason": "أضافه اختصار جديد الي 1186110298323697814",
+            "amount": 1,
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-07 07:37"
+        },
+        {
+            "id": 15,
+            "reason": "شحن رصيد",
+            "amount": 100,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-07 07:39"
+        },
+        {
+            "id": 31,
+            "reason": "أضافه اختصار جديد الي 1186097482065788998",
+            "amount": 1,
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-08 09:18"
+        },
+        {
+            "id": 36,
+            "reason": "لم يتم تحديد سبب",
+            "amount": 30,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-09 04:57"
+        },
+        {
+            "id": 37,
+            "reason": "أضافه اختصار جديد الي 1186097253165846538",
+            "amount": 1,
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-09 05:16"
+        },
+        {
+            "id": 38,
+            "reason": "تغير لغه البوت 1186097253165846538 الي AR",
+            "amount": 3,
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-09 05:22"
+        },
+        {
+            "id": 45,
+            "reason": "لم يتم تحديد سبب",
+            "amount": 10,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-10 01:12"
+        },
+        {
+            "id": 46,
+            "reason": "شراء Autoline بوت",
+            "amount": "10",
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-10 01:16"
+        }
+    ],
+    "LogID": 59,
+    "Logs_1040030130837401640": [
+        {
+            "id": 4,
+            "reason": "لم يتم تحديد سبب",
+            "amount": 100,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-06 08:00"
+        },
+        {
+            "id": 17,
+            "reason": "شراء Package بوت",
+            "amount": "10",
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-07 10:20"
+        },
+        {
+            "id": 18,
+            "reason": "شراء Suggestion بوت",
+            "amount": "10",
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-07 10:21"
+        },
+        {
+            "id": 25,
+            "reason": "تغير لغه البوت 1186096465832067113 الي AR",
+            "amount": 3,
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-07 09:55"
+        }
+    ],
+    "Logs_1142789320353259631": [
+        {
+            "id": 16,
+            "reason": "شحن رصيد",
+            "amount": 80,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-07 07:59"
+        },
+        {
+            "id": 20,
+            "reason": "شراء Package بوت",
+            "amount": "10",
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-07 08:45"
+        },
+        {
+            "id": 26,
+            "reason": "أضافه اختصار جديد الي 1186096029074997349",
+            "amount": 1,
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-07 09:59"
+        },
+        {
+            "id": 27,
+            "reason": "أضافه اختصار جديد الي 1186096029074997349",
+            "amount": 1,
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-07 10:00"
+        },
+        {
+            "id": 28,
+            "reason": "أضافه اختصار جديد الي 1186096029074997349",
+            "amount": 1,
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-07 10:01"
+        },
+        {
+            "id": 29,
+            "reason": "أضافه اختصار جديد الي 1186096029074997349",
+            "amount": 1,
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-07 10:01"
+        },
+        {
+            "id": 39,
+            "reason": "شراء Feedback بوت",
+            "amount": "10",
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-09 05:26"
+        },
+        {
+            "id": 40,
+            "reason": "شحن رصيد",
+            "amount": 130,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-09 05:29"
+        },
+        {
+            "id": 41,
+            "reason": "أضافه اختصار جديد الي 1186097411383365773",
+            "amount": 1,
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-09 05:31"
+        },
+        {
+            "id": 42,
+            "reason": "أضافه اختصار جديد الي 1186097411383365773",
+            "amount": 1,
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-09 05:32"
+        },
+        {
+            "id": 43,
+            "reason": "تغير لغه البوت 1186097411383365773 الي AR",
+            "amount": 3,
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-09 05:34"
+        }
+    ],
+    "Logs_1098075558409158666": [
+        {
+            "id": 19,
+            "reason": "شحن رصيد",
+            "amount": 80,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-07 12:07"
+        }
+    ],
+    "Logs_930924322023940137": [
+        {
+            "id": 21,
+            "reason": "شحن رصيد",
+            "amount": 10,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-07 08:48"
+        },
+        {
+            "id": 22,
+            "reason": "شراء Package بوت",
+            "amount": "10",
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-07 08:48"
+        },
+        {
+            "id": 30,
+            "reason": "شحن رصيد",
+            "amount": 30,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-08 08:51"
+        },
+        {
+            "id": 51,
+            "reason": "شحن رصيد",
+            "amount": 71,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-11 02:05"
+        }
+    ],
+    "Logs_1088986863873830912": [
+        {
+            "id": 23,
+            "reason": "شحن رصيد",
+            "amount": 10,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-07 09:48"
+        },
+        {
+            "id": 24,
+            "reason": "شراء Autoline بوت",
+            "amount": "10",
+            "status": "danger",
+            "action": "خصم",
+            "date": "2024-07-07 09:49"
+        }
+    ],
+    "Logs_834752988375547905": [
+        {
+            "id": 32,
+            "reason": "شحن رصيد",
+            "amount": 100,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-08 09:21"
+        }
+    ],
+    "Logs_968608406837542922": [
+        {
+            "id": 33,
+            "reason": "شحن رصيد",
+            "amount": 290,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-09 10:50"
+        },
+        {
+            "id": 50,
+            "reason": "شحن رصيد",
+            "amount": 10,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-10 11:33"
+        }
+    ],
+    "Logs_1187864465979486299": [
+        {
+            "id": 34,
+            "reason": "شحن رصيد",
+            "amount": 40,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-09 03:13"
+        },
+        {
+            "id": 35,
+            "reason": "شحن رصيد",
+            "amount": 100,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-09 03:37"
+        },
+        {
+            "id": 55,
+            "reason": "شحن رصيد",
+            "amount": 200,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-12 04:31"
+        },
+        {
+            "id": 58,
+            "reason": "شحن رصيد",
+            "amount": 50,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-12 08:35"
+        }
+    ],
+    "Logs_1210740261492097056": [
+        {
+            "id": 44,
+            "reason": "شحن رصيد",
+            "amount": 40,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-10 12:58"
+        },
+        {
+            "id": 47,
+            "reason": "شحن رصيد",
+            "amount": 30,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-10 02:38"
+        },
+        {
+            "id": 48,
+            "reason": "شحن رصيد",
+            "amount": 10,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-10 02:49"
+        },
+        {
+            "id": 52,
+            "reason": "شحن رصيد",
+            "amount": 40,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-11 12:06"
+        },
+        {
+            "id": 56,
+            "reason": "شحن رصيد",
+            "amount": 60,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-12 12:16"
+        }
+    ],
+    "Logs_1208851995423801355": [
+        {
+            "id": 49,
+            "reason": "شحن رصيد",
+            "amount": 2,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-10 08:57"
+        }
+    ],
+    "Logs_618078478755037185": [
+        {
+            "id": 53,
+            "reason": "شحن رصيد",
+            "amount": 100,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-11 06:31"
+        }
+    ],
+    "Logs_1095492295324868618": [
+        {
+            "id": 54,
+            "reason": "شحن رصيد",
+            "amount": 100,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-11 11:49"
+        },
+        {
+            "id": 57,
+            "reason": "شحن رصيد",
+            "amount": 16,
+            "status": "success",
+            "action": "اضافه",
+            "date": "2024-07-12 04:37"
+        }
+    ]
+}
