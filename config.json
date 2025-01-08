@@ -1,0 +1,35 @@
+{
+    "token": "-T-",
+    "ClientID": "",
+    "ClientSecret": "",
+    "prefix": "!",
+    "Owner": [
+        ""
+    ],
+    "Log": "",
+    "MainGuild": "",
+    "yes_emoji": "✅️",
+    "no_emoji": "❌️",
+    "commandChannel": [
+        "1254073893677961300"
+    ],
+    "Server": "",
+    "Rate": "",
+    "RateRole": "",
+    "Developer": [
+        ""
+    ],
+    "ConfigChannel": "",
+    "adminChannel": "",
+    "dashboardIP": "",
+    "fileUpdateChannel": "",
+    "dataSendChannel": "",
+    "SupportSystem": {
+        "guild": ""
+    },
+    "backup": {
+        "channel": "",
+        "pathes": []
+    },
+    "mongooseUrl": "mongodb+srv://:@.rbw5jvy.mongodb.net/"
+}
